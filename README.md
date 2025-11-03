@@ -38,9 +38,3 @@ The implementation focuses on:
 
 ---
 
-## Project Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/flutter_dio_crud_demo.git
-   cd flutter_dio_crud_demo
